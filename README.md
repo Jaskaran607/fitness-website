@@ -23,9 +23,3 @@ A **fully responsive** fitness website built with semantic HTML5 and modern CSS3
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-green)
-
-## 📥 Installation
-```bash
-git clone https://github.com/your-username/fitness-website.git
-cd fitness-website
-# Open index.html in any browser
